@@ -1,0 +1,28 @@
+.navbar-light{
+    background: rgb(37, 37, 37);
+}
+.btn-outline-success{
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: Times New Roman;
+}
+.bs{
+    font-family:Times New Roman;
+    font-size: 22px; 
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    text-decoration-line: none;
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-family: georgia;
+    font-size: 35px;
+    text-shadow: 2px 2px 7px;
+    color: rgba(73, 72, 72, 0.911);
+    margin: 20px auto auto ;
+}
+.bs:hover{
+    color: rgb(255, 255, 255);
+}
+
